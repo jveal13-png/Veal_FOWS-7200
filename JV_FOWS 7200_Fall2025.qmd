@@ -5,23 +5,29 @@ format: html
 editor: visual
 ---
 
-## Quarto
+## *09/04/2025*
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Quarto is a powerful tool for creating dynamic documents that combine text, code, and data visualizations. For your assignments and worksheets, using Quarto will allow you to seamlessly integrate your analysis with your written explanations/comments, making your reports more cohesive and professional.
 
-## Running Code
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Find area of a circle with radius 5 cm.
 
-```{r}
-1 + 1
-```
+Formula: ¶ \* r\^2
 
-You can add options to executable code like this
+where r is the radius.
 
 ```{r}
-#| echo: false
-2 * 2
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+![](images/clipboard-72126728.png)
+
+The image arrangement illustrates the relationship between the three key factors in epidemiology or disease transmission.
