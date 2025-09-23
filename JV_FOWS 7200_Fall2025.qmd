@@ -31,3 +31,31 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ![](images/clipboard-72126728.png)
 
 The image arrangement illustrates the relationship between the three key factors in epidemiology or disease transmission.
+
+------------------------------------------------------------------------
+
+![1. Sample Size for 5% Prevalence, 95% Confidence, 5000 Deer](images/clipboard-1592867622.png)
+
+The sample size necessary to detect a disease at or above 5% prevalence with 95% confidence in a herd of 5000 deer is 82.
+
+2\. Sample Size Comparisons (Hypergeometric, "Infinite" or Large Population)
+
+a\) 95% confidence, 1% prevalence, large population
+
+The necessary sample size is 299.
+
+b\) 99% confidence, 2% prevalence, large population
+
+The necessary sample size is 229.
+
+3\. Interpreting a Sample of 300 Deer from 4000 (None Positive, 95% Confidence)
+
+From the table (95% confidence, population size 4000):
+
+\- Sampled: 300 deer, None positive.
+
+\- For 1% prevalence, required sample: 118.
+
+\- For 0.5% prevalence, required sample: 230.
+
+Since 300 exceeds 118 but is just above 230, and all are negative, the maximum prevalence is \<0.5% (less than 0.5%) at 95% confidence.
