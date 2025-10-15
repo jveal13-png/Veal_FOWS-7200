@@ -59,3 +59,67 @@ From the table (95% confidence, population size 4000):
 \- For 0.5% prevalence, required sample: 230.
 
 Since 300 exceeds 118 but is just above 230, and all are negative, the maximum prevalence is \<0.5% (less than 0.5%) at 95% confidence.
+
+------------------------------------------------------------------------
+
+Herd size at risk: 56 elk
+
+Daily Counts Calculation
+
+For each date: - Prevalence: Number of elk with any sign of infection (RE, OD, or both) on that day. - Incidence: Number of elk that became newly affected (first day with RE or OD) on that date.
+
+Tally of Affected Elk Per Day
+
+Date-Prevalence-Incidence
+
+06/10/25-1-1
+
+06/11/25-4-3
+
+06/12/25-8-4
+
+06/13/25-10-2
+
+06/14/25-10-1
+
+06/15/25-8-0
+
+06/16/25-7-1
+
+1.  Incidence on 06/12/25, 06/14/25, 06/15/25 (with units):
+
+-   Incidence= (Number of new cases on given day) / (Population at risk)
+-   For 06/12/25: 4/56 = 0.071 or 7.1%
+-   For 06/14/25: 1/56 = 0.018 or 1.8%
+-   For 06/15/25: 0/56 = 0 or 0%
+
+2.  Prevalence on 06/13/25 and 06/16/25 (with units):
+
+-   Prevalence = (Number infected on day) / (Population)
+-   For 06/13/25: 10/56 = 0.179 or 17.9%
+-   For 06/16/25: 7/56= 0.125 or 12.5%
+
+3.  Day When Prevalence = Incidence (numeric equality, different units):
+
+-   06/10/25: Both are 1 (incidence/new case and prevalence/total affected). The units differ:
+-   Prevalence: 1 elk currently infected
+-   Incidence: 1 new case
+-   As a percentage: 1/56= 0.018 or 1.8% for both (numeric equality but unit is 'new cases' vs. 'current infected').
+
+4.  Which Day Had the Lowest Incidence?
+
+-   06/15/25: Zero new cases
+
+Table of Results
+
+Date-Incidence-Prevalence
+
+06/12/25-7.1-14.3
+
+06/13/25-3.6-7.9
+
+06/14/25-1.8-17.9
+
+06/15/25-0-14.3
+
+06/16/25-1.8-12.5
