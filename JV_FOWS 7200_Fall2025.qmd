@@ -54,72 +54,66 @@ From the table (95% confidence, population size 4000):
 
 \- Sampled: 300 deer, None positive.
 
-\- For 1% prevalence, required sample: 118.
+\- For 1% prevalence, required sample: 288
 
 \- For 0.5% prevalence, required sample: 230.
 
-Since 300 exceeds 118 but is just above 230, and all are negative, the maximum prevalence is \<0.5% (less than 0.5%) at 95% confidence.
+Since 300 exceeds 288, and all are negative, the maximum prevalence is \<0.5% (less than 0.5%) at 95% confidence.
 
 ------------------------------------------------------------------------
 
-Herd size at risk: 56 elk
+a\) Find incidence on day 06/12/25, 06/14/25, 06/15/25. Write the unit for incidence.
 
-Daily Counts Calculation
+**Unit: Cases/population at risk (100 Elk per day)**
 
-For each date: - Prevalence: Number of elk with any sign of infection (RE, OD, or both) on that day. - Incidence: Number of elk that became newly affected (first day with RE or OD) on that date.
+Incidence on **06/12/25**:
 
-Tally of Affected Elk Per Day
+New cases: 5 Elk (2320B, 2763B, 2772B, 4597B, 6001B)
 
-Date-Prevalence-Incidence
+Population at risk: 51 Elk (56 total-5 cumulative cases on 06/11)
 
-06/10/25-1-1
+**Incidence Rate= 5/51= 0.09804 (9.8)**
 
-06/11/25-4-3
+Incidence on **06/14/25**:
 
-06/12/25-8-4
+New cases: 2 Elk (1766B, 4599B)
 
-06/13/25-10-2
+Population at risk: 44 Elk (56 total-12 cumulative cases on 06/13)
 
-06/14/25-10-1
+**Incidence Rate: 2/44= 0.04545 (4.5)**
 
-06/15/25-8-0
+Incidence on **06/15/25**:
 
-06/16/25-7-1
+New cases: 0 Elk
 
-1.  Incidence on 06/12/25, 06/14/25, 06/15/25 (with units):
+Population at risk: 42 Elk (56 total-14 cumulative cases on 06/14)
 
--   Incidence= (Number of new cases on given day) / (Population at risk)
--   For 06/12/25: 4/56 = 0.071 or 7.1%
--   For 06/14/25: 1/56 = 0.018 or 1.8%
--   For 06/15/25: 0/56 = 0 or 0%
+**Incidence Rate= 0/42= 0 (0)**
 
-2.  Prevalence on 06/13/25 and 06/16/25 (with units):
+b\) What is the prevalence of conjunctivitis on 6/13/25 and 06/16/25? What is the unit of prevalence.
 
--   Prevalence = (Number infected on day) / (Population)
--   For 06/13/25: 10/56 = 0.179 or 17.9%
--   For 06/16/25: 7/56= 0.125 or 12.5%
+Prevalence= (Total affected cases on day t / Total population on day t) x 100
 
-3.  Day When Prevalence = Incidence (numeric equality, different units):
+Prevalence on 06/13/25:
 
--   06/10/25: Both are 1 (incidence/new case and prevalence/total affected). The units differ:
--   Prevalence: 1 elk currently infected
--   Incidence: 1 new case
--   As a percentage: 1/56= 0.018 or 1.8% for both (numeric equality but unit is 'new cases' vs. 'current infected').
+Total affected cases (**I** 06/13):12 Elk (06/13)
 
-4.  Which Day Had the Lowest Incidence?
+Total Population(**N**): 56 Elk
 
--   06/15/25: Zero new cases
+**Prevalence: 12/56= 0.21428 (21.43% per 100)**
 
-Table of Results
+Prevalence on 06/16/25:
 
-Date-Incidence-Prevalence
+Total affected cases (06/16):5 Elk (06/13)
 
-06/12/25-7.1-14.3
+Total Population: 56 Elk
 
-06/13/25-3.6-7.9
+**Prevalence: 5/56= 0.08928 (8.93% per 100)**
 
-06/14/25-1.8-17.9
+c\) On which day is the prevalence the same as the incidence (except the units)?
 
-06/15/25-0-14.3
+It is the same on the first day 06/10/25 so all new infection cases are new.
 
-06/16/25-1.8-12.5
+d\) On which day is the incidence the lowest?
+
+The incidence rate is lowest on 06/15 and 06/16 since the new cases where at 0 on both days.
