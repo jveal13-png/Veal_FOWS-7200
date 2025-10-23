@@ -116,4 +116,46 @@ It is the same on the first day 06/10/25 so all new infection cases are new.
 
 d\) On which day is the incidence the lowest?
 
-The incidence rate is lowest on 06/15 and 06/16 since the new cases where at 0 on both days.
+The incidence rate is lowest on 06/15 and 06/16 since the new cases where at 0
+
+------------------------------------------------------------------------
+
+Worksheet 4
+
+1\. MERS-CoV is primarily maintained in human populations.
+
+This is incorrect. MERS-CoV is a zoonotic virus, meaning it is transmitted between animals and people, primarily from infected dromedary camels. Human-to-human transmission occurs only through close contact and has not sustained itself within human populations.
+
+2\. Camels serve as the main animal reservoir for MERS-CoV  
+
+This is correct. Dromedary camels are the primary reservoir hosts for MERS-CoV, shedding virus in nasal secretions and acting as the main source for zoonotic spillover.
+
+3\. Humans are dead-end hosts for MERS-CoV  
+
+This is mostly correct. Phylogenetic and epidemiological data show that humans act as dead-end hosts, as transmission chains end quickly with no sustained community spread.
+
+4\. The estimated case fatality rate for human MERS-CoV infections is approximately 65%  
+
+This is incorrect. The actual case fatality rate averages about 35% worldwide, as reported by the WHO, CDC, and recent epidemiological analyses.
+
+5\. The epidemic curve shows a point source outbreak  
+
+This is incorrect. MERS-CoV is characterized by repeated zoonotic spillovers from camels with limited human-to-human transmission, a propagated pattern rather than a single point source.
+
+6\. Global MERS cases have declined sharply since 2019  
+
+This is correct. Global MERS-CoV case reports have sharply decreased since the COVID-19 pandemic, primarily due to pandemic mitigation measures, reduced travel, and enhanced infection control. Additional factors may include changes in camel-human interaction and potential cross-immunity effects with SARS-CoV-2.
+
+Sources
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) https://www.who.int/health-topics/middle-east-respiratory-syndrome-coronavirus-mers
+
+About Middle East Respiratory Syndrome (MERS) https://www.cdc.gov/mers/about/index.html
+
+Human Exposure to Middle East Respiratory Syndrome ... https://www.fao.org/fileadmin/user_upload/remesa/library/FAO_RA_MERSCoV_Aug2017.pdf
+
+MERS-CoV spillover at the camel-human interface - PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC5777824/
+
+MERS-CoV spillover at the camel-human interface \| eLife https://elifesciences.org/articles/31257
+
+Update on the Epidemiology of Middle East Respiratory Syndrome Coronavirus — Worldwide, 2017–2023 https://www.cdc.gov/mmwr/volumes/74/wr/pdfs/mm7419a1-H.pdf
