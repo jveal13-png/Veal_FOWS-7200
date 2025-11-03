@@ -159,3 +159,33 @@ MERS-CoV spillover at the camel-human interface - PMC https://pmc.ncbi.nlm.nih.g
 MERS-CoV spillover at the camel-human interface \| eLife https://elifesciences.org/articles/31257
 
 Update on the Epidemiology of Middle East Respiratory Syndrome Coronavirus — Worldwide, 2017–2023 https://www.cdc.gov/mmwr/volumes/74/wr/pdfs/mm7419a1-H.pdf
+
+------------------------------------------------------------------------
+
+Worksheet 5
+
+**Classification Under the Fenton and Pedersen Framework**
+
+The Fenton and Pedersen community epidemiology framework classifies disease threats based on between- and within-species transmission rates, demarcating four categories: spillover, apparent multihost, true multihost, and potential emerging infectious disease.
+
+Spillover event occurs when a pathogen occasionally transmits from a reservoir host, like bats, into a target population (humans), but cannot sustain human-to-human transmission:  R_0 \< 1 in humans.
+
+Emerging infectious disease (EID) designation is warranted when, after initial spillover, sustained human-to-human transmission occurs within the target host (R_0 \> 1 in humans), resulting in broader community spread.
+
+**Measures to Reduce Transmission Risk**
+
+Contact tracing and isolation: Promptly trace contacts and isolate symptomatic individuals. 
+
+Surveillance and diagnostics: Rapidly detect, test, and report cases. 
+
+Vaccination/therapeutics: Use experimental vaccines or treatments under emergency protocols when available.
+
+Healthcare Settings: Follow strict IPC measures, ensure staff training, maintain surge capacity with adequate supplies and advanced care, monitor healthcare workers for exposure, and establish safe patient movement protocols. Rwanda’s swift, evidence-based response—including IPC, vaccination trials, and health system mobilization—shows the effectiveness of these strategies for future filovirus outbreaks.
+
+**Sources**
+
+Fenton, A., & Pedersen, A. B. (2005). Community epidemiology framework for classifying disease threats. Emerging Infectious Diseases, 11 (12), 1815-1821. https://doi.org/10.3201/eid1112.050306
+
+Nutt, C. T. (2025). Marburg virus disease in Rwanda—Centering both evidence and equity. The New England Journal of Medicine, 392 (7), 625-627. https://doi.org/10.1056/NEJMp2415557
+
+World Health Organization. (2024, October 31). Marburg virus disease—Rwanda. Disease Outbreak News. https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON543
