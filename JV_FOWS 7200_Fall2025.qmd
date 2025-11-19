@@ -189,3 +189,67 @@ Fenton, A., & Pedersen, A. B. (2005). Community epidemiology framework for class
 Nutt, C. T. (2025). Marburg virus disease in Rwanda—Centering both evidence and equity. The New England Journal of Medicine, 392 (7), 625-627. https://doi.org/10.1056/NEJMp2415557
 
 World Health Organization. (2024, October 31). Marburg virus disease—Rwanda. Disease Outbreak News. https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON543
+
+------------------------------------------------------------------------
+
+**Worksheet 6**
+
+Pond 1 Results
+
+Prevalence: 30%
+
+95% CI: 15% - 52%
+
+Fishers Exact test p-value: .1987 rounded .2
+
+Pond 2 Results
+
+Prevalence: 6.7%
+
+95% CI: 1% - 30%
+
+Fishers Exact test p-value: .1987 rounded .2
+
+The difference in Vertico prevalence between the ponds isn't statistically significant. p=0.2 is greater than 0.05.
+
+------------------------------------------------------------------------
+
+**Worksheet 7**
+
+Nipah Virus—Malaysia vs. Bangladesh
+
+In Malaysia, Nipah virus transmission primarily occurred from fruit bats to pigs, with humans infected by direct contact with infected pigs during farm operations or slaughter (Azri Bin Adzhar, 2011; NCBI, 2007). Minimal-to-no human-to-human transmission was observed (NCBI, 2007; CDA, 2025). In contrast, Bangladesh sees direct transmission from bats to humans, mainly via ingestion of raw date palm sap contaminated by bat saliva or urine (NCBI, 2007; CIDRAP, 2025). Significant human-to-human transmission has also been documented in Bangladesh, often through close contact with infected patients' secretions, especially saliva (NCBI, 2007; CIDRAP, 2025).
+
+Preventive Measures: In Malaysia, controls focus on restricting pig movement, culling infected livestock, and improving farm biosecurity to limit bat–pig–human transmission (Azri Bin Adzhar, 2011; NCBI, 2007). In Bangladesh, strategies aim to minimize human exposure to contaminated palm sap (using collection covers, avoiding fresh sap consumption), encourage safe food handling, and isolate patients to limit person-to-person spread (NCBI, 2007; CIDRAP, 2025; WOAH, 2021).
+
+Avian Reovirus
+
+Avian reovirus (ARV) is transmitted both vertically (parent to offspring via eggs) and horizontally (bird-to-bird: fecal-oral, respiratory, contaminated feed/equipment) (ScienceDirect, 2025; Nature, 2016; GD Animal Health, n.d.). Environmental factors favoring ARV spread include high density, poor sanitation, contaminated surfaces/water, and stress—since the virus survives well on surfaces and in water (GD Animal Health, n.d.; ScienceDirect, 2025). ARV’s resilience in the environment, resistance to desiccation, and high shedding through feces support robust horizontal transmission (ScienceDirect, 2025; Nature, 2016; GD Animal Health, n.d.). A classic example is viral arthritis (tenosynovitis) in wild/domestic birds, causing lameness, joint swelling, reduced mobility, high mortality, and reduced egg production (Nature, 2016; PMC, 2022).
+
+Langya Henipavirus (LayV)
+
+The likely reservoir of Langya virus in China is shrews (genus Crocidura) with presumed animal-to-human transmission, likely via direct contact (PMC, 2022; Nature, 2025). Langya is classified as a spillover, not a potential EID, because all known human cases were directly traced to animal exposure and no sustained human-to-human transmission was observed (PMC, 2022; Nature, 2025).
+
+Sources
+
+Azri Bin Adzhar. (2011). Nipah virus infection—Malaysia experience. World Organisation for Animal Health (WOAH).
+
+CDA. (2025, March 25). Nipah virus infection. https://www.cda.gov.sg/professionals/diseases/nipah-virus-infection/ 
+
+CIDRAP. (2025, November 12). WHO reports 4 fatal Nipah virus infections in Bangladesh\*. Center for Infectious Disease Research and Policy. https://www.cidrap.umn.edu/nipah/who-reports-4-fatal-nipah-virus-infections-bangladesh 
+
+GD Animal Health. (n.d.). Reovirus. Retrieved November 19, 2025, from https://www.gdanimalhealth.com/en/Disease-control/Animal-diseases/Reovirus 
+
+National Center for Biotechnology Information (NCBI). (2007, May 7). Transmission of human infection with Nipah virus. https://www.ncbi.nlm.nih.gov/books/NBK114486/ 
+
+Nature. (2016, October 17). Genetic and pathogenic characterisation of 11 avian reovirus field strains. https://www.nature.com/articles/srep35271 
+
+PMC. (2022, September 5). Langya virus, a newly identified Henipavirus in China. https://pmc.ncbi.nlm.nih.gov/articles/PMC9444302/ 
+
+ScienceDirect. (2025, October 31). Evidence for vertical transmission of avian reovirus in wild birds. https://www.sciencedirect.com/science/article/abs/pii/S0378113525003451 
+
+World Organisation for Animal Health (WOAH). (2021). Nipah virus infection—Malaysia experience. https://www.woah.org/fileadmin/Home/eng/Conferences_Events/sites/WILDLIFE_ACTES_2011/Presentations/S1_3_AzriBinAdzhar.pdf 
+
+------------------------------------------------------------------------
+
+**Worksheet 8**
