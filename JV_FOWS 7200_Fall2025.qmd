@@ -253,3 +253,143 @@ World Organisation for Animal Health (WOAH). (2021). Nipah virus infection—Mal
 ------------------------------------------------------------------------
 
 **Worksheet 8**
+
+Prevalence Patterns by Region
+
+• Central region: Prevalence 64.3% (95% CI calculated by Wilson score).
+
+• South region: Prevalence 48.5%.
+
+• North region: Prevalence 28.6%.
+
+• Confidence intervals for all estimates using standard quantitative parasitology methods (Wilson score).
+
+Prevalence by Sex and Age within Regions
+
+• When stratified by sex and age, patterns remain mostly consistent within regions.
+
+• No notable sex or age class strongly deviates in prevalence for North or Central regions.
+
+• In the South region, young female adults have the highest worm counts (mean and maximum), suggesting a risk concentration in this group.
+
+Worm Burden and Quantitative Comparisons
+
+• Worm burden (mean, standard deviation, min, max) was summarized for each region, and for region-sex-age combinations.
+
+• South: Highest recorded worm count among single individuals, specifically female young adults (e.g., 51 worms found in one raccoon).
+
+• Central and North regions show lower mean burdens and less between-individual variation.
+
+Statistical Summary
+
+• Point prevalence and 95% confidence intervals for each region and subgroup were used to interpret risk.
+
+• The Central region’s higher prevalence may indicate differences in environmental transmission dynamics or raccoon population density.
+
+------------------------------------------------------------------------
+
+**Term Project**
+
+**MEMO TO PUBLIC HEALTH OFFICIALS**
+
+To: Iowa Department of Public Health 
+
+Subject: New World Screwworm – Disease Overview and Public Health Recommendations
+
+From: Joshua H. Veal
+
+**Overview**
+
+The New World Screwworm (NWS), caused by the parasitic fly Cochliomyia hominivorax, is an obligate parasite whose larvae induce myiasis by infesting living tissues of warm-blooded animals. While livestock are the primary hosts, birds, pets, and humans may also be affected, albeit rarely.\[2\]\[4\]
+
+**Reservoir and Transmission**
+
+Female NWS flies deposit eggs in open wounds or mucous membranes, with larvae rapidly burrowing into tissue and causing non-healing wounds. If untreated, infestations may lead to severe tissue damage and death. Mature larvae exit the host to pupate in soil, and the entire lifecycle can complete in under three weeks given suitable conditions. Major pathways for spread include livestock movement, animal husbandry, and human travel.\[3\]\[4\]\[6\]\[7\]\[8\]
+
+**Geographic Distribution**
+
+Once endemic throughout the Americas, NWS has been eradicated from the U.S. via the sterile insect technique (SIT) and ongoing surveillance. However, outbreaks persist in Central and South America, resulting in sporadic imported cases in North America—including the first U.S. human case in Maryland, August 2025, linked to travel from El Salvador. Counties adjacent to endemic regions remain at heightened risk due to animal movement and fly migration.\[3\]\[5\]\[6\]\[9\]\[10\]
+
+**Clinical Presentation**
+
+NWS myiasis typically presents as non-healing, foul-smelling wounds with visible larvae. In livestock, rapid tissue destruction can result in significant health and productivity losses. Human cases necessitate prompt clinical intervention—primarily mechanical removal of larvae—as no direct pharmacological treatments exist. Secondary bacterial infections are common and can worsen outcomes.\[2\]\[4\]
+
+**Public Health Implications of Importation**
+
+The recent Maryland case highlights the ongoing risk posed by international travel and trade. While surveillance suggests a low risk of domestic spread, an outbreak in U.S. livestock could incur substantial economic losses, with USDA estimates reaching \$1.8 billion for Texas alone during a large-scale infestation. Nevertheless, rigorous surveillance and rapid action are effective for containment; recent trapping data show no evidence of local transmission.\[5\]\[6\]
+
+**Recommended Actions**
+
+-   
+
+-   Enhance Surveillance: Implement routine screening of imported animals and monitor for unexplained wounds in both animals and humans, prioritizing regions with high travel or proximity to endemic areas.\[6\]\[7\]
+
+-   
+
+-   Provider and Producer Education: Distribute updated guidance to clinicians, veterinarians, and ranchers on NWS recognition, case reporting, and wound management to prevent fly attraction and oviposition.\[2\]\[3\]
+
+-   
+
+-   Public Awareness: Initiate campaigns to encourage prompt reporting of suspect myiasis and reinforce best practices in wound care and animal handling, especially post-travel.\[8\]
+
+-   
+
+-   Case Management: Ensure immediate removal and identification of larvae, wound disinfection, and notification of authorities for confirmation and epidemiologic response. No medications are available for humans; use organophosphorus insecticides in animals only under veterinary supervision.\[4\]
+
+-   
+
+-   Infection Control: Establish protocols in healthcare settings for suspected NWS cases, safeguard healthcare personnel during wound care, and develop referral pathways for specialized myiasis management.\[2\]
+
+-   
+
+-   SIT and Biosecurity: Maintain sterile fly release programs and enforce animal transport biosecurity from endemic regions to prevent NWS reestablishment.\[4\]\[5\]
+
+-   
+
+**Ecological Considerations**
+
+-   
+
+-   Host-Pathogen Dynamics: NWS is highly adapted to livestock, relying on open wounds for lifecycle completion. The broad host range complicates eradication, especially in wildlife-abundant areas.\[4\]\[7\]
+
+-   
+
+-   Spillover Risk: Introduction to non-endemic zones occurs via movement of infected hosts and travelers, with suitable climates enabling rapid population growth. SIT disrupts fly reproduction, reducing infestation rates.\[4\]\[7\]
+
+-   
+
+-   Reservoir Management: NWS larvae do not persist long outside hosts, but asymptomatic carrier movement and poor wound care increase outbreak risk. Continuous vigilance at the wildlife-livestock-human interface is essential.\[1\]\[3\]
+
+-   
+
+**Resources**
+
+\[1\] Term-project-2025-copy.docx https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/74610470/81dcd129-1b62-450d-bd14-15b7a40e8203/Term-project-2025-copy.docx
+
+\[2\] Clinical Overview of New World Screwworm https://www.cdc.gov/new-world-screwworm/hcp/clinical-overview/index.html
+
+\[3\] About New World Screwworm https://www.cdc.gov/new-world-screwworm/about/index.html
+
+\[4\] New world screwworm (Cochliomyia hominivorax) https://www.woah.org/en/disease/new-world-screwworm-cochliomyia-hominivorax/
+
+\[5\] Exclusive: U.S. confirms nation's first travel- ... - Reuters https://www.reuters.com/business/environment/us-confirms-nations-first-travel-associated-human-screwworm-case-connected-2025-08-25/
+
+\[6\] First human screwworm case in US reported https://www.avma.org/news/first-human-screwworm-case-us-reported
+
+\[7\] An Overview of the Components of AW-IPM Campaigns ... https://pmc.ncbi.nlm.nih.gov/articles/PMC4553557/
+
+\[8\] Rethinking Livestock Management to Consider Screwworm https://agrilifeextension.tamu.edu/rethinking-livestock-management-to-consider-screwworm/
+
+\[9\] New World Screwworm https://www.aphis.usda.gov/livestock-poultry-disease/cattle/ticks/screwworm
+
+\[10\] U.S. confirms its first human case of New World screwworm ... https://www.npr.org/2025/08/25/nx-s1-5515487/new-world-screwworm-us-human-case
+
+\[11\] Health Advisory: New World Screwworm ... https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/cahan/communications_documents/9.8.2025.pdf
+
+\[12\] HHS and USDA Confirm Singular Traveler-Associated ... https://www.usda.gov/about-usda/news/press-releases/2025/08/26/hhs-and-usda-confirm-singular-traveler-associated-new-world-screwworm-case-precautionary-and
+
+\[13\] NEW WORLD SCREWWORM FACTS https://www.ncba.org/Media/NCBA2025/Docs/newworldscrewwormfactsheet-arms042825-04.pdf
+
+\[14\] New World Screwworm: Rise, Fall and Resurgence https://asm.org/articles/2025/september/new-word-screwworm-rise-fall-resurgence
+
+\[15\] Animal Drugs for New World Screwworm https://www.fda.gov/animal-veterinary/safety-health/animal-drugs-new-world-screwworm
