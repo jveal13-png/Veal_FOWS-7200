@@ -393,3 +393,69 @@ The recent Maryland case highlights the ongoing risk posed by international trav
 \[14\] New World Screwworm: Rise, Fall and Resurgence https://asm.org/articles/2025/september/new-word-screwworm-rise-fall-resurgence
 
 \[15\] Animal Drugs for New World Screwworm https://www.fda.gov/animal-veterinary/safety-health/animal-drugs-new-world-screwworm
+
+------------------------------------------------------------------------
+
+**Worksheet 9**
+
+1\. Human behaviors and Salmonella spread
+
+Risky practices included:
+
+\- Handling poultry (especially chicks/ducklings) and then touching the mouth or eating without washing hands, which allows fecal Salmonella on skin or clothes to enter the oral route.
+
+\- Allowing poultry (or their crates, bedding, or equipment) into homes, especially kitchens or areas where food is prepared or where young children play, which contaminates household surfaces and increases exposure for family members.
+
+\- Letting children (particularly under 5 years) handle chicks or clean coops without strict hygiene, or supervising handwashing poorly, which is high risk because children are more likely to put contaminated hands or objects in their mouths and have higher susceptibility to severe infection.
+
+Contributing behaviors often cited were:
+
+\- Not washing hands thoroughly with soap and water after touching birds, eggs, coop surfaces, or used bedding, which leaves Salmonella on hands.
+
+\- Eating or drinking in areas where poultry live or roam (e.g., snacking in the yard while handling birds), which makes it easier for bacteria on hands or dust to reach the mouth.
+
+2a. Advantage of the endophyte to tall fescue
+
+Infection with Epichloë coenophiala improves tall fescue’s persistence and stress tolerance. Endophyte-infected plants show better survival under drought, salinity, and other environmental stress, often with improved nutrient acquisition and root-soil interactions compared with endophyte-free fescue.
+
+The endophyte also provides natural protection against insects and some herbivores via its alkaloid production, so infected tall fescue stands tend to be more productive and longer-lived in pastures than endophyte-free stands.
+
+2b. Factors driving the occurrence and severity of fescue toxicosis
+
+Both pasture conditions and management drive the occurrence and severity of fescue toxicosis:
+
+\- Plant and alkaloid factors: High proportion of endophyte-infected tall fescue (especially cultivars like Kentucky-31) and high ergot-alkaloid concentrations in the forage, which can increase with plant maturity, seed-head presence, and specific fertilization regimes (e.g., high nitrogen).
+
+\- Environmental conditions: Heat stress (warm, humid weather) worsens hyperthermia and performance losses, while cold stress (low temperatures, frost) promotes vasoconstriction-related problems like “fescue foot” and gangrene of extremities.
+
+\- Grazing management and animal factors: Continuous grazing on heavily infected fescue, lack of forage diversity, high stocking rate, and susceptible classes (late-gestation or lactating cows, growing calves) increase cumulative exposure and clinical expression.
+
+2c. Key clinical signs of fescue toxicity in cattle
+
+Typical clinical signs in affected cattle include:
+
+\- Reduced feed intake, weight gain, milk production, and reproductive performance (e.g., poor conception, agalactia), reflecting chronic production losses.
+
+\- Hyperthermia and heat stress behaviors in warm weather, such as elevated body temperature, rapid breathing (tachypnea), excessive salivation, rough hair coat, and seeking shade or water.
+
+\- Cold extremities, lameness, and in severe cases dry gangrene of tails, ears, or distal limbs (“fescue foot”), especially in cold conditions, along with a stiff gait and weight shifting.
+
+Sources
+
+ Salmonella Outbreak Linked to Backyard Poultry -May 2024 - CDC https://www.cdc.gov/salmonella/outbreaks/backyardpoultry-05-24/index.html
+
+ Backyard Poultry Flocks and Salmonellosis: A Recurring, Yet ... https://academic.oup.com/cid/article/58/10/1432/286842
+
+ Multistate outbreaks of salmonellosis linked to contact with backyard ... https://pubmed.ncbi.nlm.nih.gov/38686950/
+
+ Endophytes provide benefits and challenges https://hayandforage.com/article-2767-Endophytes-provide-benefits-and-challenges.html
+
+ Influence of Tall Fescue Epichloë Endophytes on Rhizosphere Soil ... https://pmc.ncbi.nlm.nih.gov/articles/PMC8468716/
+
+Role of fungal endophyte of tall fescue (Epichloë coenophiala) on ... https://www.sciencedirect.com/science/article/abs/pii/S0378377415301165
+
+ Strategies for Managing Endophyte-Infected Tall Fescue https://www.pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu/spes/spes-163/SPES-163.pdf
+
+ Managing Fescue Toxicity in Cattle: What You Need to Know https://www.ralcoagriculture.com/post/fescue-toxicity-in-cattle-how-to-manage-it
+
+ Isolation and culture of Epichloё for reinfection of endophyte-free ... https://scholarsjunction.msstate.edu/cgi/viewcontent.cgi?article=6941&context=td
