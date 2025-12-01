@@ -320,47 +320,25 @@ The recent Maryland case highlights the ongoing risk posed by international trav
 
 **Recommended Actions**
 
--   
-
 -   Enhance Surveillance: Implement routine screening of imported animals and monitor for unexplained wounds in both animals and humans, prioritizing regions with high travel or proximity to endemic areas.\[6\]\[7\]
-
--   
 
 -   Provider and Producer Education: Distribute updated guidance to clinicians, veterinarians, and ranchers on NWS recognition, case reporting, and wound management to prevent fly attraction and oviposition.\[2\]\[3\]
 
--   
-
 -   Public Awareness: Initiate campaigns to encourage prompt reporting of suspect myiasis and reinforce best practices in wound care and animal handling, especially post-travel.\[8\]
-
--   
 
 -   Case Management: Ensure immediate removal and identification of larvae, wound disinfection, and notification of authorities for confirmation and epidemiologic response. No medications are available for humans; use organophosphorus insecticides in animals only under veterinary supervision.\[4\]
 
--   
-
 -   Infection Control: Establish protocols in healthcare settings for suspected NWS cases, safeguard healthcare personnel during wound care, and develop referral pathways for specialized myiasis management.\[2\]
-
--   
 
 -   SIT and Biosecurity: Maintain sterile fly release programs and enforce animal transport biosecurity from endemic regions to prevent NWS reestablishment.\[4\]\[5\]
 
--   
-
 **Ecological Considerations**
-
--   
 
 -   Host-Pathogen Dynamics: NWS is highly adapted to livestock, relying on open wounds for lifecycle completion. The broad host range complicates eradication, especially in wildlife-abundant areas.\[4\]\[7\]
 
--   
-
 -   Spillover Risk: Introduction to non-endemic zones occurs via movement of infected hosts and travelers, with suitable climates enabling rapid population growth. SIT disrupts fly reproduction, reducing infestation rates.\[4\]\[7\]
 
--   
-
 -   Reservoir Management: NWS larvae do not persist long outside hosts, but asymptomatic carrier movement and poor wound care increase outbreak risk. Continuous vigilance at the wildlife-livestock-human interface is essential.\[1\]\[3\]
-
--   
 
 **Resources**
 
@@ -459,3 +437,41 @@ Role of fungal endophyte of tall fescue (Epichloë coenophiala) on ... https://w
  Managing Fescue Toxicity in Cattle: What You Need to Know https://www.ralcoagriculture.com/post/fescue-toxicity-in-cattle-how-to-manage-it
 
  Isolation and culture of Epichloё for reinfection of endophyte-free ... https://scholarsjunction.msstate.edu/cgi/viewcontent.cgi?article=6941&context=td
+
+------------------------------------------------------------------------
+
+**Worksheet 10**
+
+**Question 1: Routes of Transmission for African Swine Fever and Human Role**
+
+African Swine Fever (ASF) primarily spreads among pigs through direct contact with infectious domestic pigs, wild boars, or their carcasses, ingestion of contaminated feed, and exposure to contaminated fomites like equipment or vehicles. The virus can also spread via aerosols, secretions, excretions, or by biological vectors such as soft ticks. Human activities play a critical role in ASF transmission, as people can inadvertently carry the virus on clothing, shoes, or equipment, help spread contaminated feed (like through food waste or swill), and facilitate the movement of infected animals or contaminated materials into new areas. While humans do not become infected, behaviors such as improper disposal of food waste, lack of biosecurity, and movement between farms significantly contribute to ASF outbreaks\[1\]\[2\]\[3\]\[4\].
+
+**Question 2: Co-infection with Koala Retrovirus and Chlamydia in Koalas**
+
+Co-infection with koala retrovirus (KoRV), especially certain subtypes like KoRV-B, has been linked to increased susceptibility and altered immune responses in koalas affected by Chlamydia. The direct impact of KoRV on the severity and progression of chlamydial disease is still under investigation; some studies suggest KoRV may cause immunosuppression, though disease progression seems more strongly associated with chlamydial strain type and individual koala immune genetics. Management of Chlamydia in koalas co-infected with KoRV is complex; standard treatment with antibiotics can cause further complications such as gastrointestinal dysbiosis, and high KoRV loads may correlate with poorer overall outcomes\[5\]\[6\]\[7\].
+
+**Question 3: Challenges in Surveillance and Management of Snake Fungal Disease (SFD)**
+
+The key challenges for surveillance and management of Snake Fungal Disease (SFD) include the lack of systematic surveillance plans, the cryptic and uneven distribution of wild snake populations, and morphological similarities with other skin diseases that complicate diagnosis. SFD does not exhibit a clear geographic spread pattern, making it difficult to track outbreaks. Inconsistent monitoring, variable species and sample sizes, and difficulty accessing wildlife exacerbate detection challenges. Management is hindered by limited knowledge of disease prevalence, environmental persistence of the fungus, and few effective control options\[8\]\[9\]\[10\].
+
+**References**
+
+\[1\] United States Department of Agriculture. (2025). How African Swine Fever Spreads. <https://www.aphis.usda.gov/animal-disease/swine/protect-pigs/youth-center/how-african-swine-fever-spreads>
+
+\[2\] World Organisation for Animal Health. (2025). African swine fever. <https://www.woah.org/en/disease/african-swine-fever/>
+
+\[3\] Pig333. (2025). Transmission routes of African swine fever virus. <https://www.pig333.com/articles/african-swine-fever-virus-transmission-routes_18510/>
+
+\[4\] ThePigSite. (2022). African swine fever in wild boar: infection routes and mechanisms. <https://www.thepigsite.com/articles/epidemiology-of-african-swine-fever-in-wild-boar-populations-part-3-infection-routes-and-mec>
+
+\[5\] Rubin, L. A., et al. (2025). Temporal dynamics of koala retrovirus plasma RNA load in relation to disease. <https://pmc.ncbi.nlm.nih.gov/articles/PMC12451608/>
+
+\[6\] Ishida, T., et al. (2017). Infection with koala retrovirus subgroup B (KoRV-B), but not KoRV-A, significantly increases intramuscular chlamydial burden in northern koalas. Nature Scientific Reports, 7, 11781. <https://www.nature.com/articles/s41598-017-00137-4>
+
+\[7\] Vidgen, M. E., et al. (2023). Reduction of Chlamydia pecorum and Koala Retrovirus subtype B burden during antibiotic treatment. Scientific Reports, 13, 18894. <https://www.sciencedirect.com/science/article/pii/S2590136223000700>
+
+\[8\] Allender, M. C., et al. (2016). Snake fungal disease: an emerging threat to wild snakes. Philosophical Transactions of the Royal Society B, 371(1709), 20150457. <https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0457>
+
+\[9\] Allender, M. C., et al. (2016). Snake fungal disease: an emerging threat to wild snakes. PLOS Pathogens. <https://pmc.ncbi.nlm.nih.gov/articles/PMC5095536/>
+
+\[10\] Bryan, L. K., et al. (2020). Ophidiomycosis surveillance of snakes in Georgia, USA reveals new host species and taxonomic associations with disease. Scientific Reports, 10, 10971. <https://www.nature.com/articles/s41598-020-67800-1>
